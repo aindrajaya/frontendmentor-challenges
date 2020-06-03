@@ -83,4 +83,7 @@ A massive thank you to our community sponsors!
 - [Qualified](https://bit.ly/fem-qualified) helps companies assess engineers with realistic code tests and pair-programming interviews. Their assessments test on-the-job skills as opposed to algorithmic puzzles which leads to a much better recruitment process for everyone involved.
 
 ## This is My Solution
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/jpSFdj8"><a href="//imgur.com/a/jpSFdj8"></a></blockquote>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/jpSFdj8"><a href="https://imgur.com/55RGs5e"></a></blockquote>
+========
+<img src="https://i.imgur.com/55RGs5e.gif" />
