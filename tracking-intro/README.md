@@ -1,5 +1,11 @@
 # Frontend Mentor - Project tracking intro component
 
+## This is My Solution
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/jpSFdj8"><a href="https://imgur.com/55RGs5e"></a></blockquote>
+========
+<img src="https://i.imgur.com/55RGs5e.gif" />
+
 # This is the challenge link (https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e/intro)
 
 ![Design preview for the Project tracking intro component coding challenge](./design/desktop-preview.jpg)
@@ -82,8 +88,4 @@ A massive thank you to our community sponsors!
 - [Sizzy](https://bit.ly/fm-sizzy) is an extremely useful browser designed specifically to improve a developer's workflow when building websites. You can fire up multiple device emulators and run them all in sync while building out your web pages. Perfect for helping build fully responsive websites!
 - [Qualified](https://bit.ly/fem-qualified) helps companies assess engineers with realistic code tests and pair-programming interviews. Their assessments test on-the-job skills as opposed to algorithmic puzzles which leads to a much better recruitment process for everyone involved.
 
-## This is My Solution
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/jpSFdj8"><a href="https://imgur.com/55RGs5e"></a></blockquote>
-========
-<img src="https://i.imgur.com/55RGs5e.gif" />
