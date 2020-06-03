@@ -1,1 +1,1 @@
-#This is my repository for frontendmentor challnge
+#This is my repository for frontendmentor challenge
