@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link 
+    rel="icon" 
+    type="image/png" 
+    sizes="32x32" 
+    href="./images/favicon-32x32.png"
+    >
+
+  <link 
+    href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;700&display=swap" 
+    rel="stylesheet"
+    >
+
+  <link 
+    href="https://fonts.googleapis.com/css2?family=Barlow&display=swap" 
+    rel="stylesheet"
+    >
+
+  <link rel="stylesheet" href="style.css">
+  
+  <title>Frontend Mentor | Project tracking intro component</title>
+
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <nav class="font-shared">
+        <a href="#" aria-label="Go Home">
+          <img src="./images/logo.svg" alt="logo" class="logo"/>
+        </a>
+
+        <ul class="menu">
+          <li><a href="#">Product</a></li>
+          <li><a href="#">Features</a></li>
+          <li><a href="#">Pricing</a></li>
+          <li><a href="#">Login</a></li>
+        </ul>
+
+        <div id="hamburger" role="button" aria-label="Toggle Menu">
+          
+          <img 
+            class="hamburger__open"
+            src="./images/icon-hamburger.svg"
+            alt="menu-open"
+          />
+          
+          <img 
+            class="hamburger__close"
+            src="./images/icon-close.svg"
+            alt="menu-close "
+          />
+
+        </div>
+      </nav>
+    </header>
+    
+    <main>
+      <div class="content">
+
+        <div class="left-column">
+            <h3 class="font-shared">
+              <span>New</span>
+              Monograph Dashboard
+            </h3>
+            <h1 class="font-shared">Powerful Inside into Your Team</h1>
+            <p>Project planning and time tracking for agile teams.</p>
+            <div class="schedule">
+              <a href="#" class="demo-button font-shared">
+                Schedule a demo
+              </a>
+              <h3 class="preview font-shared">to see a preview</h3>
+            </div>
+        </div>
+
+        <div class="right-column">
+          <img 
+            src="./images/illustration-devices.svg" 
+            alt="hero-image" 
+            class="hero-image" 
+            />
+        </div>
+
+      </div>
+    </main>
+  </div>
+
+  <script src="./scripts.js"></script>
+</body>
+</html>
